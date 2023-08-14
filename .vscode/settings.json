@@ -1,0 +1,16 @@
+{
+    "github.gitAuthentication": true,
+    "git.ignoreLimitWarning": true,
+    "githubIssues.assignWhenWorking": true,
+    "git.decorations.enabled": true,
+    "git.enabled": true,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.autoStash": true,
+    "git.branchRandomName.enable": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.terminalGitEditor": true,
+    "git.verboseCommit": true,
+    "git.autorefresh": true
+}
